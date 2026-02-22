@@ -158,11 +158,11 @@ Note:
 
 ## Future Enhancements
 
+- Integrate this convertor in Scientific Calculator for smooth and easy calculation
+- improve the ui according to the above vision
 - Support for negative numbers
 - Support for larger integer ranges (long long)
 - Real-time conversion without button click
-- Improved UI styling and layout design
-- Exception-based error handling
 
 ---
 
