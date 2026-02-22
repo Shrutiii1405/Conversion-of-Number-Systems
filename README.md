@@ -20,7 +20,7 @@ The project was initially implemented as a terminal-based C++ program and later 
 <!-- Save your screenshot inside a folder named "screenshots" -->
 <!-- Example path: screenshots/app_preview.png -->
 
-![Application Screenshot](screenshots/app_preview.png)
+![Application Screenshot](screenshots/app_preview.jpeg)
 
 ---
 
